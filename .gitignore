@@ -1,0 +1,29 @@
+# Node
+node_modules/
+dist/
+.next/
+
+# Anchor
+anchor/target/
+anchor/.anchor/
+anchor/target/idl/
+anchor/target/types/
+anchor/migrations/.anchor/
+
+# Logs
+*.log
+
+# Env
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Test
+coverage/
+
+# Misc
+*.tsbuildinfo
