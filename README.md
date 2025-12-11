@@ -4,8 +4,8 @@ This monorepo contains a Solana Anchor program and a Next.js web frontend for in
 
 
 ## Contacts
--telegram [@caterpillardev](https://t.me/caterpillardev)
--twitter [@caterpillardev](https://x.com/caterpillardev)
+-telegram [@caterpillardev](https://t.me/roswellecho)
+-twitter [@caterpillardev](https://x.com/roswellyecho)
 
 
 ## Projects
